@@ -17,8 +17,7 @@
 <center>
 <a href="boost.html" type="a">Boost</a>
 <a href="#" type="a">Tasks</a>
-<a href="#" type="a">Referals</a>
-<a href="#" type="a">Airdrop</a>
+<a href="#" type="a">Refes</a>
 </center>
 </body>
 </html>
