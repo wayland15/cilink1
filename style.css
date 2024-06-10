@@ -9,7 +9,7 @@ body {
     padding-top: 30px;
   }
   
-  input[type="text"]{
+  input{
     color: rgb(255, 255, 255);
     font-family: "Segoe UI", Arial, sans-serif;
     border: none;
