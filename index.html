@@ -8,12 +8,11 @@
 </head>
 <body>
   <center><h1>0.00000000</h1></center>
-  <hr>
   <center>
-<img src="images\money.png" width="50%" height="50%">
+<img src="images\money.png" width="60%" height="60%">
 </center>
 <center>
-<p>Заряд: 2000/2000</p>
+<p>Energy: 2000/2000</p>
 </center>
 <center>
 <button type="button">Boost</button>
