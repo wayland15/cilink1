@@ -13,7 +13,7 @@ body {
     color: rgb(255, 255, 255);
     font-family: "Segoe UI", Arial, sans-serif;
     border: none;
-    background: transparent;
+    background: none;
     font-size: 30px;
     text-align: center;
   }
