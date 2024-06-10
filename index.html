@@ -15,10 +15,10 @@
 <p>Energy: 2000/2000</p>
 </center>
 <center>
-<button type="button">Boost</button>
-<button type="button">Tasks</button>
-<button type="button">Referals</button>
-<button type="button">Airdrop</button>
+<a href="boost.html" type="a">Boost</a>
+<a href="#" type="a">Tasks</a>
+<a href="#" type="a">Referals</a>
+<a href="#" type="a">Airdrop</a>
 </center>
 </body>
 </html>
