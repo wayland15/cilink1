@@ -7,9 +7,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <center><h1>0.00000000</h1></center>
+  <center><input type="text" id="number" value="0"/></center>
   <center>
-<img src="images\money.png" width="60%" height="60%">
+<input type="image" src="images\money.png" onclick="incrementValue()" width="60%" height="60%" />
 </center>
 <center>
 <p>Energy: 2000/2000</p>
@@ -19,5 +19,14 @@
 <a href="#" type="a">Tasks</a>
 <a href="#" type="a">Refes</a>
 </center>
+<script>
+  function incrementValue()
+{
+    var value = parseInt(document.getElementById('number').value, 10);
+    value = isNaN(value) ? 0 : value;
+    value++;
+    document.getElementById('number').value = value;
+}
+</script>
 </body>
 </html>
