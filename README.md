@@ -8,7 +8,7 @@
 <body>
   <center>
 <p>0.0000000</p>
-<img src="images\money.png" width="50%" height="50%">
+<img src="images\money.png" width="30%" height="30%">
 </center>
 </body>
 </html>
