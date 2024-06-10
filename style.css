@@ -1,8 +1,14 @@
 body {
-    background-color: rgb(72, 184, 221);
+  height: 100vh;
+ /* зальем body документа градиентом из 3 цветов, начало градиента - нижний левый угол*/
+ background: linear-gradient(45deg, blue, rgb(10, 214, 146));
   }
   
   h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial', 'Verdana', sans-serif;
+  }
+  p {
     color: rgb(255, 255, 255);
     font-family: 'Arial', 'Verdana', sans-serif;
   }

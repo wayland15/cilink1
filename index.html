@@ -10,7 +10,10 @@
   <center><h1>0.00000000</h1></center>
   <hr>
   <center>
-<img src="images\money.png" width="40%" height="40%">
+<img src="images\money.png" width="50%" height="50%">
+</center>
+<center>
+<p>Заряд: 2000/2000</p>
 </center>
 <center>
 <button type="button">Boost</button>
