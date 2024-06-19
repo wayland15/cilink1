@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <center><input type="text" id="number" value="0"/></center>
+  <center><input readonly type="text" id="number" value="0"/></center>
   <center>
 <input type="image" src="images\money.png" onclick="incrementValue()" width="60%" height="60%" />
 </center>
@@ -18,7 +18,7 @@
   <div class="redbox">
   <div class="container">
     <a href="boost.html" type="a">Boost</a>
-    <a href="#" type="a">Tasks</a>
+    <a href="tasks.html" type="a">Tasks</a>
     <a href="#" type="a">Refes</a>
   </div>
 </div>
