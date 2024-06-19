@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <center><input readonly type="text" id="number" value="0"/></center>
+  <center><input readonly type="text" size="6" id="number" value="0"/></center>
   <center>
 <input type="image" src="images\money.png" onclick="incrementValue()" width="55%" height="55%" />
 </center>
