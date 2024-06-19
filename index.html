@@ -9,7 +9,7 @@
 <body>
   <center><input readonly type="text" id="number" value="0"/></center>
   <center>
-<input type="image" src="images\money.png" onclick="incrementValue()" width="60%" height="60%" />
+<input type="image" src="images\money.png" onclick="incrementValue()" width="55%" height="55%" />
 </center>
 <center>
 <p>⚡: 2000/2000</p>
